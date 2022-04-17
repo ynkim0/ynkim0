@@ -5,7 +5,7 @@
 
 ## :pushpin: Contact
 - 이메일: hffuf7799@gmail.com
-- 블로그: https://medium.com/@hffuf7799
+- 블로그: https://ynkim0.github.io/
 - 깃헙: https://github.com/ynkim0
 
 </br>
