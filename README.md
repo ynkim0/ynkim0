@@ -19,10 +19,13 @@ Tech : 한 번 이상 다루어 본 기술들
 ![Numpy](https://img.shields.io/badge/-Numpy-darkblue?&logo=numpy&logoColor=ffffff)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-orange?&logo=scikitlearn&logoColor=ffffff)
 ![Amazon EC2](https://img.shields.io/badge/-AWS%20EC2-green?&logo=ec2&logoColor=ffffff)
+![Pytorch](https://img.shields.io/badge/-Pytorch-red?&logo=amazon&logoColor=ffffff)
+![Selenium](https://img.shields.io/badge/-Selenium-red?&logo=selenium&logoColor=ffffff)
 
 - AWS EC2에서 Ubuntu, anaconda 환경 구축 경험
-- Python sklearn 사용한 데이터 분석 및 모델링 경험
+- Python sklearn, pytorch 사용한 데이터 분석 및 모델링 경험
 - Matplotlib 사용한 데이터 시각화(basic chart 구현)
+- Beautiful Soup, Selenium 활용한 데이터 크롤링
 
 </br>
 
@@ -30,6 +33,10 @@ Tech : 한 번 이상 다루어 본 기술들
 수학과, 연세대학교 원주캠퍼스(2018 ~ 2022.08)
 - Computer Programming(A+), Data Structure(A-), Linear Algebra 1(A0), Linear Algebra 2(A-), Analytics(A+), Computational Statistics(A0), Probability Theory(A+), Probability Process Theory(A+) etc
 - 4.11/4.30 GPA
+
+AI 이노베이션 스퀘어 고급과정(음성) 6기(2020.02.08 ~ 2020.04.18)
+- 음성인식 이론 학습
+- 뉴스기사 토픽모델링, Google SST 실습 etc
 
 Study
 - Data Science Study group(2022.04.06 ~ )
