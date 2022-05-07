@@ -1,6 +1,8 @@
 # 김예나
 >데이터 사이언티스트가 되고 싶은 수학도입니다.
 
+![Metrics](/github-metrics-ynkim0.svg)
+
 
 ## :pushpin: Summary
 - 데이터 사이언티스트
