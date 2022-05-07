@@ -13,7 +13,7 @@
 ## :pushpin: Skill
 Tech : 한 번 이상 다루어 본 기술들
 
-![Python](https://img.shields.io/badge/-python-blue&logo=python&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-python-blue?&logo=python&logoColor=ffffff)
 
 </br>
 
