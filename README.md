@@ -22,6 +22,6 @@ Tech : 한 번 이상 다루어 본 기술들
 
 Study
 - Data Science Study group(2022.04.06 ~ )
-- 혼자 공부하는 머신러닝 + 딥러닝
+- [혼자 공부하는 머신러닝 + 딥러닝](https://books.google.co.kr/books?id=9Q0REAAAQBAJ&printsec=frontcover&dq=%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&hl=ko&sa=X&ved=2ahUKEwifqZKu2cz3AhXbmlYBHS5_D6gQ6AF6BAgJEAI#v=onepage&q=%ED%98%BC%EC%9E%90%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&f=false)
 - 관련 [깃헙](https://github.com/yonseimath/data-science-2022-biginner)
 
