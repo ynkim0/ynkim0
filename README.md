@@ -15,6 +15,14 @@ Tech : 한 번 이상 다루어 본 기술들
 
 ![Python](https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C-lightgrey?&logo=c&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/-Pandas-purple?&logo=pandas&logoColor=ffffff)
+![Numpy](https://img.shields.io/badge/-Numpy-darkblue?&logo=numpy&logoColor=ffffff)
+![Scikit Learn](https://img.shields.io/badge/-Scikit Learn-orange?&logo=scikit learn&logoColor=ffffff)
+![Amazon EC2](https://img.shields.io/badge/-Amazon EC2-green?&logo=amazon&logoColor=ffffff)
+
+- AWS EC2에서 Ubuntu, anaconda 환경 구축 경험
+- Python sklearn 사용한 데이터 분석 및 모델링 경험
+- Matplotlib 사용한 데이터 시각화(basic chart 구현)
 
 </br>
 
@@ -22,10 +30,6 @@ Tech : 한 번 이상 다루어 본 기술들
 수학과, 연세대학교 원주캠퍼스(2018 ~ 2022.08)
 - Computer Programming(A+), Data Structure(A-), Linear Algebra 1(A0), Linear Algebra 2(A-), Analytics(A+), Computational Statistics(A0), Probability Theory(A+), Probability Process Theory(A+) etc
 - 4.11/4.30 GPA
-
-
-
-
 
 Study
 - Data Science Study group(2022.04.06 ~ )
