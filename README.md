@@ -17,8 +17,8 @@ Tech : 한 번 이상 다루어 본 기술들
 ![C](https://img.shields.io/badge/-C-lightgrey?&logo=c&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?&logo=pandas&logoColor=ffffff)
 ![Numpy](https://img.shields.io/badge/-Numpy-darkblue?&logo=numpy&logoColor=ffffff)
-![Scikit Learn](https://img.shields.io/badge/-ScikitLearn-orange?&logo=scikit learn&logoColor=ffffff)
-![Amazon EC2](https://img.shields.io/badge/-AmazonEC2-green?&logo=amazon&logoColor=ffffff)
+![Scikit Learn](https://img.shields.io/badge/-Scikit Learn-orange?&logo=scikitlearn&logoColor=ffffff)
+![Amazon EC2](https://img.shields.io/badge/-AWS EC2-green?&logo=amazon&logoColor=ffffff)
 
 - AWS EC2에서 Ubuntu, anaconda 환경 구축 경험
 - Python sklearn 사용한 데이터 분석 및 모델링 경험
