@@ -1,6 +1,11 @@
 # 김예나
 >데이터 사이언티스트가 되고 싶은 수학도입니다.
 
+
+## :pushpin: Summary
+- 데이터 사이언티스트
+- 취업 희망 시기 2022 8월(졸업) 이후
+
 </br>
 
 ## :pushpin: Contact
@@ -11,7 +16,7 @@
 </br>
 
 ## :pushpin: Skill
-Tech : 한 번 이상 다루어 본 기술들
+**Tech** : 한 번 이상 다루어 본 기술들
 
 ![Python](https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C-lightgrey?&logo=c&logoColor=ffffff)
@@ -26,6 +31,22 @@ Tech : 한 번 이상 다루어 본 기술들
 - Python sklearn, pytorch 사용한 데이터 분석 및 모델링 경험
 - Matplotlib 사용한 데이터 시각화(basic chart 구현)
 - Beautiful Soup, Selenium 활용한 데이터 크롤링
+
+### 앞으로 공부할 것들
+- AWS RDS 생성 및 EC2 python과 연동 경험
+- Amazon S3 이용한 데이터 업로드 경험
+- Crontab 활용한 동적 데이터 수집 경험
+- 서버리스 데이터 레이크 아키텍처 설계
+- Amazon S3를 스토리지를 사용하여 데이터를 Data Lake로 수집하는 데이터 처리 파이프라인 구축
+- 실시간 스트리밍 데이터에 Amazon Kinesis 사용
+- AWS Glue를 사용하여 데이터세트 자동 분류
+- AWS Glue 개발 엔드포인트에 연결된 Amazon SageMaker Jupyter 노트북에서 대화형 ETL 스크립트 실행
+- Amazon Athena를 사용하여 데이터를 쿼리하고 Amazon QuickSight를 사용하여 시각화
+- 데이터 기반 의사결정 위한 정량 수치 정의
+- 서비스 KPI의 측정과 평가를 위한 로그 설계를 포함한 각종 지표 설계, 생성, 모니터링, 대시보드 구축
+- 전사 서비스 및 다양한 이슈에 대한 데이터 분석 및 인사이트 도출
+-  Python, SQL, Spark 등을 사용한 데이터 전처리, 분석 경험
+-  BI 툴
 
 </br>
 
