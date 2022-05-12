@@ -33,6 +33,7 @@
 - Python sklearn, pytorch 사용한 데이터 분석 및 모델링 경험
 - Matplotlib 사용한 데이터 시각화(basic chart 구현)
 - Beautiful Soup, Selenium 활용한 데이터 크롤링
+- Github Actions CI/CD
 
 ### 앞으로 공부할 것들
 - AWS RDS 생성 및 EC2 python과 연동 경험
