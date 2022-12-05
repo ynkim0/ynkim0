@@ -6,8 +6,7 @@
 
 ## :pushpin: Summary
 - 데이터 사이언티스트
-- 핀테크 지망
-- 취업 희망 시기 2022 8월(졸업) 이후
+- 취업 희망 시기 2023 1월 중
 
 </br>
 
@@ -41,6 +40,8 @@
 - AWS Glue를 사용하여 데이터세트 자동 분류
 - AWS Glue 개발 엔드포인트에 연결된 Amazon SageMaker Jupyter 노트북에서 대화형 ETL 스크립트 실행
 - Amazon Athena를 사용하여 데이터를 쿼리하고 Amazon QuickSight를 사용하여 시각화
+- Android Studio를 사용하여 앱 프런트 개발
+- Firebase Authentication, Storage 사용하여 사용자 관리 및 데이터 적재
 
 
 ### 앞으로 공부할 것들
